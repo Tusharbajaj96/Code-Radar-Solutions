@@ -3,10 +3,10 @@
 int main()
 {
     float n;
-    printf("Floating value :");
+    printf("you entered :%f");
     scanf("%f",&n);
 
-    printf("%d",n);
+   
     return 0;
 
 }
