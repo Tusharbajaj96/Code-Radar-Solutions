@@ -4,9 +4,9 @@ int main(){
     scanf("%d",&n);
     for(int i=1;i<=10;i++){
         mul = n*i;
-        printf("%d x %d = %d",n,i,mul);
+        printf("%d x %d = %d ",n,i,mul);
         
     }
-    printf(" \n");
+    printf("\n");
     return 0;
 }
